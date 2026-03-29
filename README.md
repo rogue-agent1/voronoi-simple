@@ -1,9 +1,3 @@
-# Voronoi Diagram (Simple)
-
-Voronoi Diagram (Simple) — zero-dependency Python implementation.
-
-## Usage
-
-```bash
-python3 voronoi_simple.py
-```
+# voronoi_simple
+Voronoi diagram — grid-based, boundary extraction, Lloyd relaxation.
+Single-file Python, zero dependencies.
